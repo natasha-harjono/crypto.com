@@ -12,7 +12,7 @@ from src.transaction_history.display_transactions import get_user_transactions
 
 def main():
     # Load system state from csv
-    load_system_state()
+    #load_system_state()
     # Initialize/load database
 
     # INITIALIZE SESSION STATE
