@@ -37,7 +37,7 @@ The application leverages **DuckDB** for efficient and lightweight data manageme
 #### **1. Locally**
 To run the app locally:
 ```bash
-git clone
+git clone https://github.com/natasha-harjono/crypto.com.git
 cd crypto.com
 pip install -r requirements.txt
 streamlit run app.py
